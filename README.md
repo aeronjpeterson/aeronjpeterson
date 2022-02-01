@@ -20,15 +20,15 @@ I analyzed 4,000,000+ lines of data collected by Divvy Bikes in Chicago between 
 **Description:** Those who earn the Google Data Analytics Professional Certificate have completed eight courses, developed by Google, that include
 hands-on, practice-based assessments and are designed to prepare them for introductory-level roles in Data Analytics. They are competent
 in tools and platforms including spreadsheets, SQL, Tableau, and R. They know how to prepare, process, analyze, and share data for thoughtful action.  
-**Status:** Completed August 2021 
-**Certificate:** [Link](https://www.coursera.org/account/accomplishments/specialization/certificate/MWXNKSPQ84AK) 
+**Status:** Completed August 2021  
+**Certificate:** [Link](https://www.coursera.org/account/accomplishments/specialization/certificate/MWXNKSPQ84AK)  
 
 ### Datacamp: Data Analysis with Python Track 
 **Description:** In this track, you’ll learn how to import, clean, manipulate, and visualize data—all integral skills for any aspiring data professional or researcher. 
 Through interactive exercises, you’ll get hands-on with some of the most popular Python libraries, including pandas, NumPy, Matplotlib, and many more. 
 You’ll also gain experience of working with real-world datasets, including data from the Titanic and from Twitter’s streaming API, to grow your data manipulation 
-and exploratory data analysis skills, before moving on to learn the SQL skills you'll need to query data from databases and join tables. 
-**Status:** In Progress 
+and exploratory data analysis skills, before moving on to learn the SQL skills you'll need to query data from databases and join tables.  
+**Status:** In Progress  
 
 ## Contact 
 
